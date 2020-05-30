@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/gym-drone/ARL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tutorial/PyOpenGL_season_02" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tutorial/PyOpenGL_tutorials" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tutorial/pyopengl_lighting_turorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tutorial/pyopengl_turorial/Learn-OpenGL-in-python" vcs="Git" />
+  </component>
+</project>
